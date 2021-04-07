@@ -1,6 +1,6 @@
 {
-    "name": "beyondcode/laravel-confirm-email",
-    "description": "Add email verification to your Laravel projects.",
+    "name": "lactobasilus/email-verification",
+    "description": "forked form beyondcode.",
     "keywords": [
         "beyondcode",
         "laravel-confirm-email"
